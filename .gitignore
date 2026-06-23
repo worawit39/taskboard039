@@ -9,7 +9,7 @@ node_modules/
 dist/
 build/
 
-# Docker
+# Docker & Logs
 *.log
 
 # OS files
